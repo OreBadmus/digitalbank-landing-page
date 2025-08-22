@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution URL](https://github.com/OreBadmus/digitalbank-landing-page.git)
-- Live Site URL: [Live Site](http://127.0.0.1:5500/)
+- Live Site URL: [Live Site](https://orebadmus.github.io/digitalbank-landing-page/)
 
 ## My process
 
