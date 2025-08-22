@@ -92,11 +92,11 @@ In future projects, I plan to:
 
 ## Author
 
-  Website - Ore Badmus
+ - Website - Ore Badmus
 
-  Frontend Mentor - @OreBadmus
+ - Frontend Mentor - @OreBadmus
  
-  Twitter - @orebadmus
+ - Twitter - @orebadmus
 
 ## Acknowledgments
 
